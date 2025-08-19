@@ -1,2 +1,2 @@
 # minikube.sh
-Installing Script
+Installing Script and Practice Setup.
